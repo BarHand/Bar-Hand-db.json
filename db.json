@@ -76,7 +76,7 @@
       "description": "Purple corn drink (600 ml)",
       "id": 1,
       "supplierID": 1,
-      "rating": 1,
+      "rating": 5,
       "price": 15
     },
     {
@@ -87,7 +87,7 @@
       "description": "Orange flavoured soda (600 ml)",
       "id": 2,
       "supplierID": 1,
-      "rating": 3,
+      "rating": 5,
       "price": 65
     },
     {
@@ -98,7 +98,7 @@
       "description": "Wireless bluetooth JBL speaker",
       "id": 3,
       "supplierID": 2,
-      "rating": 2,
+      "rating": 5,
       "price": 65
     },
     {
@@ -109,7 +109,7 @@
       "description": "Cool flying robot ",
       "id": 4,
       "supplierID": 2,
-      "rating": 3,
+      "rating": 5,
       "price": 15
     },
     {
@@ -120,7 +120,7 @@
       "description": "Quality oil for your health care",
       "id": 5,
       "supplierID": 3,
-      "rating": 1,
+      "rating": 5,
       "price": 15
     },
     {
@@ -131,7 +131,7 @@
       "description": "Low in saturated fat",
       "id": 6,
       "supplierID": 3,
-      "rating": 2,
+      "rating": 5,
       "price": 15
     },
     {
@@ -142,7 +142,7 @@
       "description": "wireless headphones",
       "id": 7,
       "supplierID": 2,
-      "rating": 1,
+      "rating": 5,
       "price": 18
     },
     {
@@ -164,7 +164,7 @@
       "description": "Lemon-lime flavor (600 ml)",
       "id": 9,
       "supplierID": 1,
-      "rating": 3,
+      "rating": 5,
       "price": 11
     },
     {
@@ -175,7 +175,7 @@
       "description": "sugary drink and cola (500 ml)",
       "id": 10,
       "supplierID": 1,
-      "rating": 1,
+      "rating": 5,
       "price": 13
     },
     {
