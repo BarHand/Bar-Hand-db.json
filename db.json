@@ -1,0 +1,204 @@
+{
+  "stores": [
+    {
+      "storeName": "Mass SuperMarket",
+      "name": "Josue",
+      "lastName": "Vilchez",
+      "email": "j.vil@gmail.com",
+      "address": "Street Bolivar 257",
+      "phone": "987883513",
+      "password": "santamaria3",
+      "image": "https://www.tiendasmass.com.pe/img/Exterior.eb7bd7f8.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "storeName": "Los Inkas Market",
+      "name": "Thomas",
+      "lastName": "Campoy",
+      "email": "thom_23@gmail.com",
+      "password": "campo_santo",
+      "phone": "966538021",
+      "address": "Street Libertadores 722",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/4e/7e/af/inka-market.jpg?w=1200&h=-1&s=1"
+    }
+    ],
+  "suppliers": [
+    {
+      "supplierName": "San Joel Drinks Company",
+      "name": "Diego",
+      "lastName": "Calo",
+      "image": "https://global-uploads.webflow.com/63050ce148a3f9607b3c5464/63328ee9318d5f35db06ecc0_Supplier-and-Vendor-Cooperation.jpeg",
+      "email": "diego.40@gmail.com",
+      "address": "Street Vicente del Campo 308",
+      "ruc": "7536345344",
+      "category": "Food and Beverage",
+      "description": "San Joel Drinks Company is a Peruvian company that owns several supermarket chains. It began operations in 2004",
+      "phone": "93132881233",
+      "password": "diego.100",
+      "id": 1
+    },
+    {
+      "supplierName": "Good Items Corp",
+      "name": "Alonso",
+      "lastName": "Kamp",
+      "image": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/styles/bi_570/public/media/image/2022/01/ces-2022-2582123.jpg?itok=D5YEuU3R",
+      "email": "alkamp@gmail.com",
+      "address": "Street Los Portales 876",
+      "ruc": "16789352314",
+      "category": "Technology",
+      "description": "Good Items Corp is a Peruvian company that sells multiple technology products. It began operations in 2016",
+      "phone": "976067993",
+      "password": "kamptec1",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "supplierName": "Susana Food",
+      "name": "Susana",
+      "lastName": "Perez",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFMjwWCaCtRIsPReDNZKXxSCTL-R26C3mIQ&usqp=CAU",
+      "email": "susana@gmail.com",
+      "address": "Los olivos- Lima",
+      "ruc": "10224565897",
+      "category": "Food",
+      "description": "venta de abarrotes y golosinas",
+      "phone": "976849521",
+      "password": "123456789"
+    }
+    ],
+  "products": [
+    {
+      "name": "Chicha Morada Drink",
+      "category": "Food and Beverage",
+      "image": "https://www.tienda-peruana.com/3252-tm_home_default/concentrado-de-chicha-morada-valle-fertil-1l.jpg",
+      "available": true,
+      "description": "Purple corn drink (600 ml)",
+      "id": 1,
+      "supplierID": 1,
+      "rating": 1,
+      "price": 15
+    },
+    {
+      "name": "Cola KR Soda",
+      "category": "Food and Beverage",
+      "image": "https://transmarket.pe/wp-content/uploads/2020/06/KR-NARANJA-1700-ML.jpg",
+      "available": true,
+      "description": "Orange flavoured soda (600 ml)",
+      "id": 2,
+      "supplierID": 1,
+      "rating": 3,
+      "price": 65
+    },
+    {
+      "name": "JBL Speaker",
+      "category": "Technology",
+      "image": "https://www.tradeinn.com/f/13737/137378886/jbl-flip-5-wireless-bluetooth-speaker.jpg",
+      "available": true,
+      "description": "Wireless bluetooth JBL speaker",
+      "id": 3,
+      "supplierID": 2,
+      "rating": 2,
+      "price": 65
+    },
+    {
+      "name": "Dron XTX",
+      "category": "Technology",
+      "image": "https://cdn.pocket-lint.com/r/s/x1920/assets/images/130265-drones-news-buyer-s-guide-best-drones-image22-r2dkig0qul.jpg",
+      "available": true,
+      "description": "Cool flying robot ",
+      "id": 4,
+      "supplierID": 2,
+      "rating": 3,
+      "price": 15
+    },
+    {
+      "name": "Primor oil",
+      "category": "Grocery",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9K14ABlXlETFaArfTapM28X5s7wJJTRbxw&usqp=CAU",
+      "available": true,
+      "description": "Quality oil for your health care",
+      "id": 5,
+      "supplierID": 3,
+      "rating": 1,
+      "price": 15
+    },
+    {
+      "name": "Mazola oil",
+      "category": "Grocery",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLJwN82AP2y6VLfSkDdHvC6fvZ0lyFPj74w&usqp=CAU",
+      "available": true,
+      "description": "Low in saturated fat",
+      "id": 6,
+      "supplierID": 3,
+      "rating": 2,
+      "price": 15
+    },
+    {
+      "name": "Beats headphones",
+      "category": "Technology",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuIahSbVqCV21yMg-FjSZVLy3tqQOxgwzsqmp9T-LUHLOi34_kEgXlrcrrlHyu-rI2As&usqp=CAU",
+      "available": true,
+      "description": "wireless headphones",
+      "id": 7,
+      "supplierID": 2,
+      "rating": 1,
+      "price": 18
+    },
+    {
+      "name": "Frutaris Drink",
+      "category": "Food and Beverage",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyawTFAa6KvmRFT_gunIVwLbC_rPzi2umCRg&usqp=CAU",
+      "available": true,
+      "description": "Citrus fruit flavor (500 ml)",
+      "id": 8,
+      "supplierID": 1,
+      "rating": 4,
+      "price": 17
+    },
+    {
+      "name": "Sprite soda",
+      "category": "Food and Beverage",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7WHVXaLL4sYCChP2RCVX0tWBxrbszlMmYQ&usqp=CAU",
+      "available": true,
+      "description": "Lemon-lime flavor (600 ml)",
+      "id": 9,
+      "supplierID": 1,
+      "rating": 3,
+      "price": 11
+    },
+    {
+      "name": "Pepsi soda",
+      "category": "Food and Beverage",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMMkFj60A46ha_4xoo84m8REuXM-Cq_vk-A&usqp=CAU",
+      "available": true,
+      "description": "sugary drink and cola (500 ml)",
+      "id": 10,
+      "supplierID": 1,
+      "rating": 1,
+      "price": 13
+    },
+    {
+      "name": "Atun Campomar",
+      "category": "Canned Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7uL1-_CMfUBsvsxb0PZKngvIAfHpNsE_ng&usqp=CAU",
+      "available": true,
+      "description": "Campomar tuna chunks in vegetable oil (170gr can)",
+      "id": 11,
+      "supplierID": 10,
+      "rating": 5,
+      "price": 18
+    },
+    {
+      "name": "Atun Florida",
+      "category": "Canned Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVb7KB6i9yLSfVNuMC-PMQ2ZllCZMNB8GV7g&usqp=CAU",
+      "available": true,
+      "description": "Florida tuna fillet in vegetable oil(170gr can)",
+      "id": 12,
+      "supplierID": 10,
+      "rating": 4,
+      "price": 19
+    }
+    ]
+}
